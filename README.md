@@ -1,4 +1,4 @@
-# Asus Chromebox 3 (i7-8550U) macOS Sonoma 14.6 EFI (OpenCore 1.0.1)
+# Asus Chromebox 3 (i7-8550U) macOS Sonoma 14.6.1 EFI (OpenCore 1.0.1)
 
 [English Version](#english-version) | [中文版](#中文版)
 
