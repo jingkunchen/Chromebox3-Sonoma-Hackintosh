@@ -820,7 +820,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-igfxnotelemetryload igfxonln=1</string>
+				<string>-igfxnotelemetryload igfxonln=1 -v</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -891,11 +891,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C078487014NKXPG1H</string>
+			<string>C07818270J9KXPGCB</string>
 			<key>ProcessorType</key>
 			<integer>1801</integer>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>/5FYVBO9</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
@@ -903,9 +903,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07XR9YMJYVX</string>
+			<string>C07WNRYCJYVX</string>
 			<key>SystemUUID</key>
-			<string>6651CD82-799A-4517-AFC2-349DDD3FD66C</string>
+			<string>09EC8859-598F-4AED-A2F7-4480553086EF</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

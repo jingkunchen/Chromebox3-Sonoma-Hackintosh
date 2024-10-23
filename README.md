@@ -1,10 +1,10 @@
-# Asus Chromebox 3 (i7-8550U) macOS Sonoma 14 EFI (OpenCore 0.9.9)
+# Asus Chromebox 3 (i7-8550U) macOS Sonoma 14.6 EFI (OpenCore 1.0.1)
 
 [English Version](#english-version) | [中文版](#中文版)
 
 ## English Version
 
-This repository contains the EFI files for running macOS Sonoma 14 on the Asus Chromebox 3 with an Intel i7-8550U CPU using OpenCore 0.9.9.
+This repository contains the EFI files for running macOS Sonoma 14.6.1 on the Asus Chromebox 3 with an Intel i7-8550U CPU using OpenCore 1.0.1.
 
 ### Specifications
 
@@ -15,8 +15,8 @@ This repository contains the EFI files for running macOS Sonoma 14 on the Asus C
 - **Storage:** NVMe SSD (user-upgraded, or factory SATA SSD)
 - **Audio:** Realtek ALC255
 - **Wi-Fi:** Intel Dual Band Wireless-AC 7265 (with support using AirportItlwm)
-- **Bootloader:** OpenCore 0.9.9
-- **macOS Version:** Sonoma 14
+- **Bootloader:** OpenCore 1.0.1
+- **macOS Version:** Sonoma 14.6.1
 
 ### What's Working
 
@@ -90,7 +90,7 @@ To run macOS smoothly on the Asus Chromebox 3, it is recommended to replace the 
 
 ## 中文版
 
-本仓库包含用于在 Asus Chromebox 3 (搭载 Intel i7-8550U CPU) 上运行 macOS Sonoma 14 的 EFI 文件，使用 OpenCore 0.9.9 引导。
+本仓库包含用于在 Asus Chromebox 3 (搭载 Intel i7-8550U CPU) 上运行 macOS Sonoma 14.6.1 的 EFI 文件，使用 OpenCore 1.0.1 引导。
 
 ### 规格
 
@@ -101,8 +101,8 @@ To run macOS smoothly on the Asus Chromebox 3, it is recommended to replace the 
 - **存储**: NVMe SSD (用户自行升级，或者原厂 SATA SSD)
 - **音频**: Realtek ALC255
 - **无线网络**: Intel Dual Band Wireless-AC 7265 (通过 AirportItlwm 支持)
-- **引导器**: OpenCore 0.9.9
-- **macOS 版本**: Sonoma 14
+- **引导器**: OpenCore 1.0.1
+- **macOS 版本**: Sonoma 14.6.1
 
 ### 已实现功能
 
