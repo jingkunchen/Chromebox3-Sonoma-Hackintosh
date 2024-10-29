@@ -13,7 +13,7 @@ This repository contains the EFI files for running macOS Sonoma 14.6.1 on the As
 - **GPU:** Intel UHD 620
 - **RAM:** 16GB DDR4 (user-upgraded)
 - **Storage:** NVMe SSD (user-upgraded, or factory SATA SSD)
-- **Audio:** Realtek ALC255
+- **Audio:** Realtek ALC5650 (not working)
 - **Wi-Fi:** Intel Dual Band Wireless-AC 7265 (with support using AirportItlwm)
 - **Bootloader:** OpenCore 1.0.1
 - **macOS Version:** Sonoma 14.6.1
@@ -99,7 +99,7 @@ To run macOS smoothly on the Asus Chromebox 3, it is recommended to replace the 
 - **显卡**: Intel UHD 620
 - **内存**: 16GB DDR4 (用户自行升级)
 - **存储**: NVMe SSD (用户自行升级，或者原厂 SATA SSD)
-- **音频**: Realtek ALC255
+- **音频**: Realtek ALC5650 (无法正常工作,待解决)
 - **无线网络**: Intel Dual Band Wireless-AC 7265 (通过 AirportItlwm 支持)
 - **引导器**: OpenCore 1.0.1
 - **macOS 版本**: Sonoma 14.6.1
